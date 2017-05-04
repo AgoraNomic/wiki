@@ -8,13 +8,13 @@ If you want to make changes via git for authentication or automation purposes, s
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
 
-[Glossary](/wiki/Glossary)
+[Glossary](/wiki/Glossary.md)
 
 # Reference
 
-[Rules](/wiki/Wikified-Rules)
+[Rules](/wiki/Wikified-Rules.md)
 
-[To do list](/wiki/To-do-list)
+[To do list](/wiki/To-do-list.md)
 
 # Reports
 
