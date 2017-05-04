@@ -1,0 +1,69 @@
+ **The concept of a 'rule change' in Suber's Initial Ruleset**
+
+By Steve Gardner, September 1997
+
+In this essay, I wish to examine Suber's Initial Ruleset to test the hypothesis that in that Ruleset, all rule changes have to be proposed. No, I need to be clearer than that. I mean the hypothesis that all rule changes occur as the direct result of a Proposal being adopted, specifically excluding the possibility that Rules (which of course will themselves have been created - ultimately - as the result of the adoption of a Proposal) can have among their effects the adoption of rule changes.
+
+There's an obvious objection to this hypothesis which must be dealt with if we are to take the hypothesis at all seriously. It is simply this: if we accept the possibility (by which I mean here the legality in the Initial Set) of self-repealing and self-amending Rules, then we shall have an immediate counterexample to the hypothesis, for then there will be some rule changes which do occur due the effects of Rules, which are not directly the result of a Proposal being adopted.
+
+In response to this objection, I am inclined to accept, with some reservations to be noted below, that self-repealing and self-amending Rules can be legally adopted and be legally effective in the Initial Set. This forces me to modify the hypothesis to be tested so that it becomes the claim that (and I'll specially mark this as the central claim of this article):
+
+> (*) Other-amending, other-creating and other-repealing rule changes are not legal in Suber's Initial Set where they purport to occur as the result of the effect or action of a Rule, rather than as the direct result of the adoption of a Proposal.
+
+The claim made in (*) is that, in general, all rule changes are proposed and adopted, with special exception made for self-repealing and self-amending Rules.
+
+Before we look at the evidence for this claim, it's worth remarking that as far as I know, no Nomic has ever taken this view of the Initial Set. The significance of this historical observation is difficult to assess. An obvious, if hasty, conclusion to draw would be that the reason no Nomic has ever taken such a view (if indeed that's the case) is that the view is simply mistaken, and that there are good reasons to conclude, on the basis of the language used in the Initial Set, that other-amending and other-repealing Rules _are_ legal in the Initial Set. If that's right, then my first reaction was the correct one.
+
+But there are other possibilities. I helped to start the very first game of Nomic to be played over the Internet (Nomic World), in August 1992, and I can confidently say that neither I nor any of the other Players commencing that game, ever considered the question of whether (*) might be true. Rather, we just assumed the falsity of (*), and proceeded from there. That assumption was inherited by Agora, the game which arose from the ruins left by the collapse of Nomic World, and from there it was passed on to other games which took Agora as a rough model, such as Ackanomic and Thring (and I trust they won't be offended by that characterization). My point is only that the views of the Initial Set held by the various Nomics now in existence (I suppose we should restrict ourselves to those Nomics which actually commenced play with something reasonably close to Suber's Initial Set), are not all independent of each other. It's not as if Nomic World, Agora, Thring and Ackanomic have all independently arrived at the conclusion that (*) is false based on a close examination of the evidence. On the contrary, I think this may be the first time that the evidence ever has been closely examined.
+
+With that plea for open-mindedness fresh before us, let's take a look at what the Initial Set has to say about rule changes. The words 'rule change' or 'rule changes' appear 20 times in the Initial Set. Its first appearance, not surprisingly, occurs in the definition of the term given in R103:
+
+> 103\. A rule change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal or amendment of an amendment; or (3) the transmutation of an immutable rule into a mutable rule, or vice versa.
+
+There's no evidence here either for or against (*). R103 speaks of rule changes quite generally, and is silent about whether such rule changes are to be thought of as occurring as the result of the adoption of Proposals, or as the result of the effect of Rules. It's consistent with R103 - and, of course with (*) - that both are allowed.
+
+Subsequent Rules in the Initial Set make use of the newly defined term (R108 is quoted only in part):
+
+> 104\. All rule changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
+
+> 105\. Every player is an eligible voter. Every elegible voter must participate in every vote on rule changes.
+
+> 106\. Any proposed rule change must be written down before it is voted on. If adopted, it must guide play in the form in which it was voted on.
+
+> 107\. No rule change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule change may have retroactive application.
+
+> 108\. Each rule change shall be given a rank order-number (ordinal number) for reference. The numbers shall begin with 301, and each rule change proposed in the proper way shall receive the next successive integer, whether or not the proposal is adopted.
+
+> 109\. Rule changes that transmute immutable rules into mutable rules may be adopted if and only if the vote is unaminous among the eligible voters.
+
+> 202\. One turn consists of two parts, in this order: (1) proposing one rule change and having it voted on; and (2) throwing one die once and adding the number of points on its face to one's score.
+
+> 203\. A rule change is adopted if and only if the vote is unaminous among the eligible voters.
+
+> 204\. If and when rule changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points apiece.
+
+> 205\. An adopted rule change takes full effect at the moment of the completion of the vote that adopted it.
+
+> 206\. When a proposed rule change is defeated, the player who proposed it loses 10 points.
+
+These Rules contain considerable evidence in favour of (*), inasmuch as in every one of these Rules, the term 'rule change' appears in a context in which it is spoken of as being 'proposed', 'voted on' or 'adopted'. This suggests quite strongly that the conception of rule changes in the Initial Set is that they are to be thought of as essentially the kinds of things that appear in Proposals. That's actually a stronger claim than is made in (*), which allows for exceptions in the case of self-repealing and self-amending Rules, for reasons which will shortly become apparent. The evidence, however, is not conclusive. One might read the Rules 104-109 as applying simply to a subset of the allowable rule changes, namely the proposed rule changes, while remaining silent about any other kinds of rule changes, namely those contained in Rules, that might occur. One can make sense at least of R104 on this reading: all the _proposed_ rule changes have to be voted on, and these proposed rule changes are adopted if and only if they receive the required number of votes. Rule changes in Rules are not proposed rule changes, and so they don't have to be voted on, nor do they have to receive the required number of votes, which is fortunate since they won't _be_ voted on - not directly - at all. And we can make similar sense of Rules 105, 106, 109, 203, 204 and so on.
+
+There are serious problems with this reading, however. Rule 108, for example, says that '_each_ rule change' - not 'each proposed rule change', but each and every rule change, shall be given a number for reference, starting at 301\. It's bizarre to think of rule changes occurring as the result of the effect of Rules (self-amendments and self-repeals, amendments and repeals and even creations of Rules by other Rules) receiving numbers, especially numbers from the same sequence as Proposals.
+
+Or consider R107\. If 'proposed rule changes' are merely a subset of the 'rule changes', then we have to read the ban on retroactivty as generally applying to all rule changes, while the first sentence will apply only to proposed rule changes, since these are the only rule changes which are voted on. In general, since most of the Initial Set concerns itself with rules changes that are proposed, voted on and adopted, none of the restrictions or properties that are attached to them - when they take effect, etc - will apply to rule changes appearing in Rules.
+
+I don't claim that any of this is completely conclusive. I think that one can, without contradiction, hold fast to the position that rule changes can quite generally occur as the result of the effect of Rules. But I think it's a very awkward position to defend given how much of the language actually employed in the Initial Set speaks of rule changes being proposed, voted on and adopted. And I certainly think that the preponderance of the evidence is against that position and in favour of the view that in the Initial Set, all rule changes are proposed rule changes.
+
+However, that stronger claim, ie, my first claim, the one I modified into (*), also cannot be defended on the basis of the language used in the Initial Set. Indeed, I now want to address the question of why I felt compelled to defend (*), and not the stronger claim that simply all rule changes occur as the direct result of the adoption of proposals.
+
+The simple answer to this question is the inclusion in the Initial Set of Rule 115:
+
+> 115\. Rule changes that affect rules needed to allow or apply rule changes are as permissible as other rule changes. Even rule changes that amend or repeal their own authority are permissible. No rule change or type of move is impermissible solely on account of the self-reference or self-application of a rule.
+
+The first sentence of R115 merely emphasizes that in Nomic, the rule changing mechanisms are as open to change as anything else, a point Suber obviously felt the need to stress to new players. But the second sentence explicitly permits rule changes that amend and repeal their own authority, which I think can only be interpreted to license the adoption of self-amending and self-repealing Rules. The third sentence hammers the point home that _self_-reference and _self_-application are allowed in rules and rule changes. Since self-amending and self- repealing Rules clearly are permitted according to the Initial Set, I had to modify the strong claim in some way. Given the great weight of evidence for the strong claim in the rest of the Initial Set, and given that R115 speaks so specifically about self-reference, self- amendment, self-repeal, and self-application, while remaining silent about the other conceivable kinds of rule changes that Rules might contain (ie other-amending, other-repealing, and other-creating rule changes) it seemed to me that the most natural modification to make was the minimal one of allowing self-amending and self-repealing Rules as exceptions to the strong claim. Hence the move to defend (*).
+
+I anticipate an objection along the following lines. In the argument given above I have many times made use of the distinction between a rule change which takes effect as the direct result of the adoption of a proposal, and a rule change which takes effect as the result of the action or effect of a Rule. The importance of the phrase '_direct_ result' is to emphasize that I do not think that we can regard rule changes which occur as the result of the effect or action of a Rule as having been proposed, voted on or adopted. Indeed, in Agora we called such rule changes 'Non-Proposed Rule Changes'. One might want to deny this, and claim that rule changes which occur as the result of the effect or action of a Rule, eg the self-repeal of a Rule, _have_, indirectly, been proposed, voted on and adopted. One might want to claim that the proposing, voting and adoption of this rule change is the proposing, voting and adoption of the Proposal which created (or amended) the Rule which contains the rule change as part of its effect.
+
+I think there are deep problems with this claim, however. Consider the provision in R104 that rule changes are adopted if and only if they receive the required number of votes. On the view being examined, we shall have to regard the self-repeal of a Rule, say, or the repeal of a Rule by another Rule, as, indirectly, having been voted on when the Proposal creating or amending the Rule was voted on. But is that plausible? Imagine Proposal P, which proposes to create Rule X, which says that if condition C is met, Rule Y shall be repealed. P is adopted unanimously. Can we regard this as a unanimous vote for the repeal of Rule Y? Of course not, for the voters may think that condition C will never be met. The most I think we can deduce is that there has been a unanimous vote that if condition C is met, Rule Y will be repealed. But that is not in itself a rule change, and it's the rule change we need to think of as being voted on and adopted if the suggestion is to work.
+
+My apologies to all of you for the extraordinary length of this article, one of the longest I have ever written in 5 years of playing Nomic. My thanks to Michael Shimmin, whose comments inspired me to write it. Please consider it a draft; it's been written in something of a hurry, and I'm sure it could be improved in many ways.

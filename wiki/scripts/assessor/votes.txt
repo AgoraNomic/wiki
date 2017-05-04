@@ -1,0 +1,15 @@
+#7844-7847
+q;2
+p;7844;2.0
+p;7845;1.0
+p;7846;3.0
+p;7847;3.0
+v;Publius Scribonius Scholasticus;F;F;F;F
+v;nichdel;F;P;F;P
+v;o;A;P;F;F;CONDITIONAL
+v;G.;A;P;F;A
+v;Quazie;A;P;F;A;CONDITIONAL
+v;REPLACE;A;A;F;A
+v;Aris;F;F;F;F
+v;Murphy;P;P;F;F
+

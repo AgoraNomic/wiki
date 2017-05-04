@@ -1,0 +1,86 @@
+I publish the weekly Registrar's report as follows.
+
+------------------------------------------------------------------------
+                      Registrar's Weekly Report
+------------------------------------------------------------------------
+
+(all times UTC)
+
+Date of last report: 03 Sep 2016
+Date of this report: UNPUBLISHED
+
+Recent events:
+
+Nothing new here.
+
+Players (17) (Rule 869, self-ratifying)
+
+   Player               Contact                               Registered
+   ------               -------                               ----------
+   ais523               callforjudgement at yahoo.co.uk [1]   20 Mar 11
+   Alexis               alercah at gmail.com                  14 Sep 16
+   aranea               aranea at aixea.de                    31 Aug 14
+   Aris                 thoughtsoflifeandlight17 at gmail.com 13 Sep 16
+   Charles              charles.w.walker at gmail.com         11 Jul 16
+   G.                   kerim at u.washington.edu             01 Oct 14
+   Henri                henrib736 at gmail.com                07 May 13
+   Murphy               emurphy42 at zoho.com                 27 Oct 07
+   nichdel              nichdel at gmail.com                  01 Dec 15
+   o                    owen at grimoire.ca                   12 Jul 16
+   omd                  c.ome.xk at gmail.com [2]             03 Feb 11
+   Roujo                jonathan.rouillard at gmail.com       16 Dec 10
+   Sci_Guy12            jwc.science at gmail.com              14 Jul 16
+   Sprocklem            sprocklem at gmail.com                19 Oct 13
+   Tekneek              tekgora at theglycerintekneek.com     12 Jun 15
+   Warrigal, the [3]    tannerswett at gmail.com              25 Apr 15
+   Yally                aarongoldfein at gmail.com            11 Jul 16
+
+[1] also ais523 at bham.ac.uk
+[2] also comexk at gmail.com
+[3] previously Alfonso Machiavelli, the Warrigal
+
+Fora (Rule 478, self-ratifying)
+
+   Type         Location                              Typical use
+   ----         --------                              -----------
+   Public       agora-official at agoranomic.org      official reports
+   Public       agora-business at agoranomic.org      other business
+   Discussion   agora-discussion at agoranomic.org    discussion
+   Discussion   irc://irc.freenode.net:6667/##nomic   discussion
+   Public       agora at listserver.tue.nl            backup
+
+   Subscribe or unsubscribe from main lists:
+      http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+   Subscribe or unsubscribe from tue.nl backup list:
+      http://listserver.tue.nl/mailman/listinfo/agora
+
+   The IRC channel does not require subscription; set your IRC client to
+   server irc.freenode.net, port 6667, channel ##nomic, and whatever
+   nickname you like.
+
+Other rules pertaining to this office
+-------------------------------------
+Rule 2139 (The Registrar)
+Rule 1789 (Cantus Cygneus)
+
+Watchers (3)
+
+   The list of Watchers is not governed by the rules, but is
+   traditionally maintained in the Registrar's Report.  If you'd like to
+   be listed as a Watcher or removed from the list, feel free to email
+   the fora or the Registrar directly.
+
+   Watchers confirmed as of Sep 2016:
+
+   Nickname          Contact
+   --------          -------
+   Ørjan             oerjan@nvg.ntnu.no
+
+   Watchers confirmed as of May 2013:
+
+   Nickname          Contact                               Requested
+   --------          -------                               ---------
+   Dave              davidnicol at gmail.com                6 Jan 03
+   Phlogistique      noe.rubinstein at gmail.com           28 Feb 14
+   Steve             zardoz37 at gmail.com                 20 Dec 07

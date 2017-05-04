@@ -1,0 +1,7 @@
+# Current players
+# r;<name>;<YYYYMMDD>;<note1>;<note2>
+r;nichdel;19920922;note1;note 2
+u;oerjan;19920922;20161210;still lurks;whatevs man
+# previous players
+# u;<name>;<joined>;<left>;<note1>;<note2>
+u;oerjan;19920922;20161210;still lurks;whatevs man

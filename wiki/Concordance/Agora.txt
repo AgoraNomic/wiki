@@ -1,0 +1,202 @@
+Agora.
+
+    Synonyms:
+        Agora Nomic.
+
+    See also:
+        Agora's Birthday.
+        Agoran.
+        Agoran Consent.
+        Agoran Decision.
+        Agoran epochs (et al).
+        Agoran Satisfaction.
+        Agoran Support.
+        Order of the Hero of Agora Nomic (et al).
+
+    Rule 107: The Game of Agora
+
+        **Agora** is a game of Nomic, wherein Persons, acting in accordance
+        with the Rules, communicate their game Actions and/or results of these
+        actions via Fora in order to play the game.
+
+        Please treat **Agora** Right Good Forever.
+
+    Rule 869: How to Join and Leave **Agora**
+
+    Rule 2449: Winning the Game
+
+        **Agora** itself does not end and the ruleset remains unchanged.
+
+    Rule 1698: **Agora** Is A Nomic
+
+        **Agora** is ossified if it is IMPOSSIBLE for any reasonable
+        combination of actions by players to cause arbitrary rule changes to be
+        made and/or arbitrary proposals to be adopted within a four-week period.
+
+        If, but for this rule, the net effect of a proposal would cause
+        **Agora** to become ossified, or would cause **Agora** to cease to
+        exist, it cannot take effect, rules to the contrary notwithstanding.
+
+        If any other single change to the gamestate would cause **Agora** to
+        become ossified, or would cause **Agora** to cease to exist, it is
+        cancelled and does not occur, rules to the contrary notwithstanding.
+
+    Rule 2162: Switches
+
+        A singleton switch is a switch for which **Agora** Nomic is the only
+        entity possessing an instance of that switch.
+
+    Rule 1728: Dependent Actions
+
+        A rule which purports to allow a person (the performer) to perform an
+        action by a set of one or more of the following methods (N is 1 unless
+        otherwise specified):
+
+        …
+
+        thereby allows em to perform the action by announcement if all of the
+        following are true:
+
+        …
+
+        c) **Agora** is Satisfied with the announced intent, as defined by
+           other rules.
+
+    Rule 2124: Agoran Satisfaction
+
+        **Agora** is Satisfied with an intent to perform a specific action if
+        and only if:
+
+        …
+
+        The above notwithstanding, if the action depends on objections,
+        and an objection to it has been withdrawn within the past 24
+        hours, then **Agora** is not Satisfied with the intent.
+
+        The above notwithstanding, **Agora** is not satisfied with the intent if
+        the Speaker has objected to it in the last 48 hours.
+
+    Rule 103: The Speaker
+
+        The Speaker is an imposed office and the figurehead leader of **Agora**.
+
+        If at any time the office of Speaker is vacant, or when one or more
+        players win **Agora**, then the Prime Minister CAN and SHALL, once and
+        in a timely fashion, appoint a Laureled player to the office of Speaker.
+
+    Rule 2423: First Among Equals
+
+        The Prime Minister is elected by the players of **Agora** primarily on
+        account of not being the other guy.
+
+    Rule 955: Determining the Will of **Agora**
+
+    Rule 991: Calls for Judgement
+
+        The Arbitor is an office, responsible for the administration of justice
+        in a manner that is fair for emself, if not for the rest of **Agora**.
+
+    Rule 1023: Common Definitions
+
+        The following terms are defined:
+
+        …
+
+        (b) Agoran epochs:
+
+            …
+
+            (5) A pivot is either the instant at which **Agora Nomic** began
+                (June 30, 1993, 00:04:30 GMT +1200) or an instant at which at
+                least one person won the game.
+
+    Rule 1769: Holidays
+
+        The week that contains the beginning of **Agora**'s Birthday, together
+        with the following week, is a Holiday.
+
+    Rule 1051: The Rulekeepor
+
+        The Rulekeepor is an office; its holder is responsible for maintaining
+        the text of the rules of **Agora**.
+
+    Rule 2446: The Agoran Newspaper
+
+        The Reportor's weekly report includes:
+
+            …
+
+            c) Any editorialization or other pieces of **Agora**-related
+               information the Reportor pleases, as long as it is neither i)
+               factually incorrect nor ii) disrespectful to any person or
+               **Agora** itself.
+
+    Rule 2456: The Secretary
+
+        The Secretary's weekly report includes:
+
+        c) Whether **Agora** is on Global Lockout, and if so, when it ends.
+
+    Rule 2457: Lockout
+
+        There is such a thing as a Lockout Event, which can happen either to a
+        person or to **Agora** as a whole.
+
+        **Agora** is on Global Lockout if a Lockout Event happened to **Agora**
+        as a whole within the past 7 days.
+
+        A person is on Lockout if that person is on Personal Lockout, **Agora**
+        is on Global Lockout, or both.
+
+    Rule 2458: Invoking Lockout
+
+        When a player Invokes Lockout, a Lockout Event happens to that player
+        and a Lockout Event happens to **Agora** as a whole.
+
+    Rule 2438: Ribbons
+
+        Magenta (M): During **Agora**'s Birthday, each person who has publicly
+        acknowledged the fact qualifies for a Magenta Ribbon.
+
+    Rule 2444: Silver Quill
+
+        The Marker Dates are July 14, two weeks after **Agora**'s Birthday (to
+        avoid the Holiday), and December 29, the day of **Agora**'s
+        Half-birthday, of each year, except for dates preceding the enactment
+        of this Rule.
+
+    Rule 2231: Order of the Hero of **Agora Nomic**
+
+        Heroic titles are **Agora**'s premier patent titles of distinction, and
+        CAN be awarded to persons for meritorious service only by a proposal of
+        power 3 or greater, which SHOULD explain why those persons are
+        qualified. Bearers of heroic titles (Heroes) constitute the Order of
+        the Hero of Agora Nomic.
+
+        Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to any
+        person obviously and directly responsible for the existence of
+        **Agora** and/or Nomic in general. As this title is the highest honour
+        that **Agora** may bestow, a Bearer of this title OUGHT to be treated
+        right good forever.
+
+        Hero of Agora Nomic (HAN) -- This title may be awarded to any person
+        for outstanding meritorious service to **Agora** above and beyond the
+        call of duty.
+
+    Rule 2415: Badges
+
+        A badge SHOULD be used to award multiple persons for participating in
+        specific event of note within **Agora**.
+
+    Rule 1727: Happy Birthday
+
+        And WHEREAS, this nomic began as a humble and nameless nomic, known
+        unofficially as yoyo, after the mailing list it was played on, until
+        its Players, much later, gave it its OFFICIAL NAME of **Agora**,
+
+        And WHEREAS, **Agora** has now become the wisest, noblest, eldest, and
+        most interesting of all active email nomics, due to the hard work and
+        diligence of Agorans as well as the frequent advice of Agoraphobes,
+
+        And WHEREAS, Agorans desire to joyously commemorate **Agora**'s
+        founding,

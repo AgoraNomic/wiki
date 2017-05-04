@@ -1,0 +1,266 @@
+PROPOSAL 1 (Credits, the Bankor, and Currency Framework)
+
+------------------------------------------------------------------------
+
+Create the following rule titled 'The Bankor':
+
+------------------------------------------------------------------------
+
+   The Bankor is an office. The Bankor is the Currency Head for Credits.
+
+   The Bankor's Weekly Report includes:
+
+      * The circulation amount and amount in each account for Credits.
+
+   The Bankor's Monthly Report includes:
+
+      * A list of all currently-defined currencies, whether they are
+        official, and their circulation amount.
+
+      * A list of every account's value.
+
+      * The Tax Rate for Credits.
+
+   The Bankor's duties also include:
+
+      * Setting the Tax Rate
+
+      * Collecting Taxes
+
+      * Paying Salaries
+
+      * Running Deregistration Auctions
+
+------------------------------------------------------------------------
+
+Create the following rule titled 'Economics':
+
+------------------------------------------------------------------------
+
+   A Currency is a fungible unit. Any currency defined by the rules is
+   an official currency.
+
+   For each currency, Agora itself, every player, and every organization
+   has a corresponding switch whose potential values are non-negative
+   integers and whose default value is 0. These switches are refered to
+   in the form <Entity>'s <Currency> Balance, or referred to
+   collectively as <Entity>'s Account. Agora's Account is also known as
+   the Treasury. If a balance is 0, it MAY be omitted and implied when
+   listing an entire account.
+
+   To 'transfer' a specified amount of a specified currency from one
+   Entity to another is to decrease the first Entity's balance by the
+   specified amount and increase the second Entity's balance by the
+   specified amount. A transfer CANNOT occur if the specified amount
+   is greater than the first Entity's balance.
+
+   Any player MAY transfer any positive amount from emself to any other
+   player by announcement.
+
+   Circulation is a currency switch whose value is a non-negative
+   integer, defaulting to 0. The total of each balance for a currency
+   SHALL equal the circulation for that currency. If the circulation for
+   a currency is increased or decreased, the treasury's balance for that
+   currency is increased or decreased by the same amount. A currency's
+   circulation CANNOT be decreased by more than the treasury's balance
+   for that currency.
+
+   If a person ceases being a player, or an organization ceases
+   existing, eir balance for each official currency is transfered to the
+   treasury.
+
+   Currency Head is an official currency switch whose value is an office
+   or player. A currency head CAN set the circulation for eir currency
+   once a month by announcement. The circulation and amount in each
+   account for eir currency is part of a Currency Head's weekly report
+   if the Currency Head is an office.
+
+------------------------------------------------------------------------
+
+Create the following rule titled 'Credits':
+
+------------------------------------------------------------------------
+
+   Credits is a currency. The Bankor is the Currency Head for credits.
+
+   The Tax Rate is a singleton switch whose values are rational numbers
+   between 0 and 1 inclusive, defaulting to 0. The Bankor CAN set the
+   Tax Rate once a month.
+
+   In the first week of every month the Bankor SHALL 'collect taxes'.
+   Collecting taxes is done by:
+
+      a) For each player and organization, calculating a tax by:
+
+            Tax = Ceiling(Credits amount in eir account * Tax Rate)
+
+      b) Transfering the tax from eir account to Agora's account
+
+   In the first week of every month, after collecting taxes, that Bankor
+   SHALL 'pay salaries'. Paying salaries is done by:
+
+      a) For each player, calculating a salary by:
+
+            Salary = 10 * (the number of offices e holds + 1)
+
+      b) Transfering the salary from Agora's account to eir account.
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+PROPOSAL 2 (Auctions and Other Currencies)
+
+------------------------------------------------------------------------
+
+Create the following rule titled "Auctions and Roles":
+
+------------------------------------------------------------------------
+
+   Role is a player switch whose possible values are 'None', 'Stamp 
+   Collection', 'Dismission', and 'Instigation' and whose default value
+   is 'None'. If a player's role is None, e can change eir role by 
+   announcement. Otherwise a player can change eir role, by 
+   announcement, by transferring 10 credits to the treasury.
+
+   A Lot is a list of currencies and corresponding positive integers. A
+   Lot SHALL NOT list more than the amount in the treasury for any
+   currency.
+
+   When a player is deregistered,
+
+      * a lot identical to eir account is created and assigned to the
+        Bankor,
+
+      * for every currency, eir balance is transfered to the treasury.
+
+   Once a month, each Currency Head for an official currency that is not
+   Credits CAN create, by announcement, a lot containing only eir
+   currency and an amount. Such a lot is assigned to the Currency Head
+   that created it.
+
+   In the last week of each month, each Currency Head SHALL initiate an
+   auction for all lots assigned to em.
+
+   An Auction is an event that last 7 days after being initiated. During
+   an auction, every eligible player CAN propose an amount of credits to
+   pay for the auction. Every player is eligible for auctions assigned
+   to the Bankor, unless otherwise stated. Any player on lockout is not
+   eligible for any auction.
+
+   When an auction event ends, the player who proposed the highest
+   number of credits that is not higher than the amount in eir account
+   SHALL be the winner of the auction. In a timely manner, the assigned 
+   Currency Head SHALL:
+
+      a) Transfer the proposed credits from the winner's account to
+         the treasury, and
+
+      b) For every currency listed in the lot, transferring the amount
+         listed from the treasury to the winner's account.
+
+------------------------------------------------------------------------
+
+AMEND 2445 to be titled "Collecting Stamps & Pending Proposals" and
+read:
+
+------------------------------------------------------------------------
+
+   Imminence is a switch, tracked by the Promotor, possessed by
+   proposals in the Proposal Pool, whose value is either "pending" or
+   "not pending" (default).
+
+   Stamps is a currency. The Currency Head for Stamps is the Prime
+   Minister. Players of the Stamp Collection role are eligible for
+   auctions assigned to the Stamps Currency Head, unless otherwise
+   stated elsewhere.
+   
+   Once a month, a player can flip the immence of a proposal e submitted
+   to "pending" by announcement.
+
+   A player can flip a proposal's imminence to "pending" by transfering
+   1 Stamp from eir account to Agora's account by announcement.
+
+   <AMEND PM RULE TO ADD THIS DUTY PURSUANT OF DUTY REWRITES>
+
+------------------------------------------------------------------------
+
+Create the following rule titled "Dismissing Tickets":
+
+------------------------------------------------------------------------
+
+   Dismissals is a currency. The Currency Head for Dismissals is the
+   Arbitor. Players of the Dismission role are eligible for auctions
+   assigned to the Dismissals Currency Head, unless otherwise stated
+   elsewhere.
+
+   <NEED TO KNOW G.'S PROPOSAL TO FINISH THIS>
+
+------------------------------------------------------------------------
+
+Create the following rule titled "Instigating Coalitions":
+
+------------------------------------------------------------------------
+
+   Coalitions is a currency. The Currency Head for Coalitions is the
+   Speaker. Players of the Instigation role are eligible for auctions
+   assigned to the Coalitions Currency Head, unless otherwise stated
+   elsewhere.
+
+   For each Coalition a player has, up to 4, e has one greater voting
+   power than e would otherwise.
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+PROPOSAL 3 (Organizations and Lockout)
+
+------------------------------------------------------------------------
+
+Amend 2459 (Organizations) to REMOVE the following text:
+
+      The Income Cap is 100.
+
+      Budget is a switch belonging to (Organization, player) pairs
+      (i.e. there is one instance of the switch for each combination
+      of an Organization and a player), tracked by the Secretary,
+      whose legal values are integers from 0 to the Income Cap 
+      inclusive, defaulting to 0. An Organization's Income is the 
+      total value of all Budget switches for pairs that include that 
+      Organization. A player's Expenditure is the total value of all 
+      Budget switches for pairs that include that player. Changes to 
+      Budget are secured.
+
+      b) Any player CAN flip a Budget Switch by announcement, if doing
+         so is Appropriate and the player is not on Lockout, except
+         where other rules prevent this.
+
+Also amend 2459 to change "c)" to "b)".
+
+Amend 2461 (Death and Birth of Organizations) to read:
+
+   When an organization's balance for any official currency has become
+   negative, then the Secretary SHALL destroy the organization by
+   announement.
+
+   Unless e is on Lockout, any player CAN create an Organization by 
+   announcement by transferring 10 credits to the treasury and
+   specifying both a unique name and a Charter. When an organization is
+   created this way, its Charter is set to the value that e specified.  
+   Notwithstanding the above, a player CANNOT create more than one
+   Organization in a day
+
+------------------------------------------------------------------------
+
+Amend Rule 2462 (Bankruptcy) to read:
+
+   When a player's balance for any official currency becomes negative,
+   e becomes Bankrupt. The Currency Head for the currency with the
+   negative balance SHALL announce so in a timely manner.
+
+   When a player becomes Bankrupt:
+      a) <SOMETHING ABOUT THE TICKETS/CARDS>
+      b) A Lockout Event happens to that player.
+      c) That player is no longer a member of any organization e was a
+         member of when e went Bankrupt.
+
+------------------------------------------------------------------------
