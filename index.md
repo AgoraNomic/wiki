@@ -6,7 +6,7 @@ If you want to make changes via git for authentication or automation purposes, s
 
 # New players
 
-[[How to play Agora]]
+[How to play Agora](/wiki/How to play Agora.md)
 
 [[Glossary]]
 
