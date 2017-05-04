@@ -8,11 +8,11 @@ Go [here](/wiki/Git.md) to learn how to automate changes.
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
 
-[Glossary](/wiki/rules/Glossary.md)
+[Glossary](/wiki/Rules/Glossary.md)
 
 # Reference
 
-[Rules](/wiki/rules/Wikified-Rules.md)
+[Rules](/wiki/Rules/Wikified-Rules.md)
 
 [To do list](/wiki/To-do-list.md)
 
