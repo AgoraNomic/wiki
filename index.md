@@ -14,29 +14,29 @@ Go [here](/wiki/Git.md) to learn how to automate changes.
 
 [Rules](/wiki/rules/Wikified-Rules.md)
 
-[To do list](/wiki/rules/To-do-list.md)
+[To do list](/wiki/To-do-list.md)
 
 # Reports
 
-[Agoran Credit Union Report](/wiki/Agoran-Credit-Union-Report.md)
+[Agoran Credit Union Report](/wiki/Reports/Agoran-Credit-Union-Report.md)
 
-[Organization Report](/wiki/Organization-Report.md)
+[Organization Report](/wiki/Reports/Organization-Report.md)
 
-[Charter Report](/wiki/Charter-Report.md)
+[Charter Report](/wiki/Reports/Charter-Report.md)
 
 ## Tailor
 
-[Ribbons](/wiki/Ribbons.md) Report
+[Ribbons](/wiki/Reports/Ribbons.md) Report
 
 ## ADoP
 
-[Payroll and Metareport](/wiki/Payroll-and-Metareport.md) - Lists offices and reports.
+[Payroll and Metareport](/wiki/Reports/Payroll-and-Metareport.md) - Lists offices and reports.
 
 ## Secretary
 
-[Monthly Report](/wiki/Monthly-Report.md)
+[Monthly Report](/wiki/Reports/Monthly-Report.md)
 
-[Weekly Report](/wiki/Secretary-Weekly-Report.md)
+[Weekly Report](/wiki/Reports/Secretary-Weekly-Report.md)
 
 # Library Items
 
