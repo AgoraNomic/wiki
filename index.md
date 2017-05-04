@@ -42,22 +42,22 @@ Go [here](/wiki/Git.md) to learn how to automate changes.
 
 The original library is [here](ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html).
 
-[Andre 1996](/wiki/Andre-1996.md)
+[Andre 1996](/wiki/Library/Andre-1996.md)
 
-[elJefe 1995](/wiki/elJefe-1995.md)
+[elJefe 1995](/wiki/Library/elJefe-1995.md)
 
-[favor](/wiki/favor.md)
+[favor](/wiki/Library/favor.md)
 
-[Kolja 1998](/wiki/Kolja-1998.md)
+[Kolja 1998](/wiki/Library/Kolja-1998.md)
 
-[Steve](/wiki/Steve.md)
+[Steve](/wiki/Library/Steve.md)
 
-[Steve 1997](/wiki/Steve-1997.md)
+[Steve 1997](/wiki/Library/Steve-1997.md)
 
-[Swann 1996](/wiki/Swann-1996.md)
+[Swann 1996](/wiki/Library/Swann-1996.md)
 
-[Vanyel](/wiki/Vanyel.md)
+[Vanyel](/wiki/Library/Vanyel.md)
 
-[Vlad 1999](/wiki/Vlad-1999.md)
+[Vlad 1999](/wiki/Library/Vlad-1999.md)
 
-[Vlad 1999 II](/wiki/Vlad-1999-II.md)
+[Vlad 1999 II](/wiki/Library/Vlad-1999-II.md)
