@@ -8,13 +8,13 @@ If you want to make changes via git for authentication or automation purposes, s
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
 
-[Glossary](/wiki/Glossary.md)
+[Glossary](/wiki/rules/Glossary.md)
 
 # Reference
 
-[Rules](/wiki/Wikified-Rules.md)
+[Rules](/wiki/rules/Wikified-Rules.md)
 
-[To do list](/wiki/To-do-list.md)
+[To do list](/wiki/rules/To-do-list.md)
 
 # Reports
 
@@ -40,7 +40,7 @@ If you want to make changes via git for authentication or automation purposes, s
 
 # Library Items
 
-The original library is [[here | ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html]].
+The original library is [here](ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html).
 
 [[Andre 1996]]
 
