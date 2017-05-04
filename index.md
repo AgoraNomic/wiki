@@ -1,8 +1,8 @@
-This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you need to practice things, please do it in the [[sandbox]].
+This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you need to practice things, please do it in the [sandbox](/wiki/sandbox.md).
 
 If you need to do tables, consider [using this markdown table generator](http://www.tablesgenerator.com/markdown_tables). It has a gui, and can import markdown or csv.
 
-If you want to make changes via git for authentication or automation purposes, see [[this page | Git]]
+Go [here](/wiki/Git.md) to learn how to automate changes.
 
 # New players
 
@@ -18,46 +18,46 @@ If you want to make changes via git for authentication or automation purposes, s
 
 # Reports
 
-[[Agoran Credit Union Report]]
+[Agoran Credit Union Report](/wiki/Agoran-Credit-Union-Report.md)
 
-[[Organization Report]]
+[Organization Report](/wiki/Organization-Report.md)
 
-[[Charter Report]]
+[Charter Report](/wiki/Charter-Report.md)
 
 ## Tailor
 
-[[Ribbons]] Report
+[Ribbons](/wiki/Ribbons.md) Report
 
 ## ADoP
 
-[[Payroll and Metareport]] - Lists offices and reports.
+[Payroll and Metareport](/wiki/Payroll-and-Metareport.md) - Lists offices and reports.
 
 ## Secretary
 
-[[Monthly Report]]
+[Monthly Report](/wiki/Monthly-Report.md)
 
-[[Weekly Report | Secretary Weekly Report]]
+[Weekly Report](/wiki/Secretary-Weekly-Report.md)
 
 # Library Items
 
 The original library is [here](ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html).
 
-[[Andre 1996]]
+[Andre 1996](/wiki/Andre-1996.md)
 
-[[elJefe 1995]]
+[elJefe 1995](/wiki/elJefe-1995.md)
 
-[[favor]]
+[favor](/wiki/favor.md)
 
-[[Kolja 1998]]
+[Kolja 1998](/wiki/Kolja-1998.md)
 
-[[Steve]]
+[Steve](/wiki/Steve.md)
 
-[[Steve 1997]]
+[Steve 1997](/wiki/Steve-1997.md)
 
-[[Swann 1996]]
+[Swann 1996](/wiki/Swann-1996.md)
 
-[[Vanyel]]
+[Vanyel](/wiki/Vanyel.md)
 
-[[Vlad 1999]]
+[Vlad 1999](/wiki/Vlad-1999.md)
 
-[[Vlad 1999 II]]
+[Vlad 1999 II](/wiki/Vlad-1999-II.md)
