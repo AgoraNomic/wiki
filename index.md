@@ -52,6 +52,12 @@ Listed below is the primary source for each official document.
 
 [Ribbons Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BTailor%5D+Ribbons&datewithin=1d&date=&notwords=&o=newest)
 
+## Humanities
+
+[The Newspaper](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BReportor%5D&datewithin=1d&date=&notwords=&o=newest) - Record of recent discussions and events.
+
+[Herald's Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BHerald%5D&datewithin=1d&date=&notwords=&o=newest) - Historically significant events and awards.
+
 # Library Items
 
 Items of significant Agoran literary value.
