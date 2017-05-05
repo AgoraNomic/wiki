@@ -1,7 +1,7 @@
-[[_TOC_]]
+<<<<<<< HEAD
 
-a
-
+=======
+>>>>>>> bcd56cca26e0bd89f7565289023b71c2ff957a61
 Subdirectory are also easily possible: [[CFJs/Home]]
 
 # Tables
