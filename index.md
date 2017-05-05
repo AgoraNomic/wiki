@@ -1,5 +1,7 @@
 Welcome to the Agoran Wiki! As the name implies, this is a wiki for [Agora Nomic](agoranaomic.org). A nomic is a game where the rules are frequently changed, and Agora is the longest continuously running such game.
 
+[To do list](/wiki/To-do-list.md)
+
 # Learning Center
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
@@ -10,37 +12,49 @@ Welcome to the Agoran Wiki! As the name implies, this is a wiki for [Agora Nomic
 
 # Game Documents
 
+Listed below is the primary source for each official document.
+
 ## Rules
 
 [The SLR](https://faculty.washington.edu/kerim/nomic/rkeep/current_slr.txt) - Just the rules.
 
 [The FLR](https://faculty.washington.edu/kerim/nomic/rkeep/current_flr.txt) - Annotated rules.
 
-[To do list](/wiki/To-do-list.md)
+## Legislation
 
-# Reports
+[Promotor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BPromotor%5D&datewithin=1d&date=&notwords=&o=newest) - Distribution of new proposals for voting.
 
-[Agoran Credit Union Report](/wiki/Reports/Agoran-Credit-Union-Report.md)
+[Assessor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BAssessor%5D&datewithin=1d&date=&notwords=&o=newest) - Tabulation and resolution of votes
 
-[Organization Report](/wiki/Reports/Organization-Report.md)
+## Justice
 
-[Charter Report](/wiki/Reports/Charter-Report.md)
+[Arbitor Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BArbitor%5D&datewithin=1d&date=&notwords=&o=newest) - CFJ assignment and management of eligible judges.
 
-## Tailor
+[Referee Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=12&y=19&from=&subject=%5BReferee%5D&datewithin=1d&date=&notwords=&o=newest) - Penalties
 
-[Ribbons](/wiki/Reports/Ribbons.md) Report
+## Economics
 
-## ADoP
+[Monthly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BSecretary%5D+Monthly+Report&datewithin=1d&date=&notwords=&o=newest) - Organization charters.
 
-[Payroll and Metareport](/wiki/Reports/Payroll-and-Metareport.md) - Lists offices and reports.
+[Weekly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BSecretary%5D+Weekly+Report&datewithin=1d&date=&notwords=&o=newest) - Balances, budgets, and transactions.
 
-## Secretary
+## People & Players
 
-[Monthly Report](/wiki/Reports/Monthly-Report.md)
+[Payroll and Metareport](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BADoP%5D&datewithin=1d&date=&notwords=&o=newest) - Lists offices and reports.
 
-[Weekly Report](/wiki/Reports/Secretary-Weekly-Report.md)
+[Monthly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Monthly+Report&datewithin=1d&date=&notwords=&o=newest) - History of players
+
+[Weekly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Weekly+Report&datewithin=1d&date=&notwords=&o=newest) - Current players and fora.
+
+[Superintendent's Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BSuperintendent%5D&datewithin=1d&date=&notwords=&o=newest) - Agencies and Power of Attorney
+
+## Victory
+
+[Ribbons Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BTailor%5D+Ribbons&datewithin=1d&date=&notwords=&o=newest)
 
 # Library Items
+
+Items of significant Agoran literary value.
 
 The original library is [here](ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html).
 
