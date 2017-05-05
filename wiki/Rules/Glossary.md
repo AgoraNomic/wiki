@@ -6,11 +6,11 @@ Associate of Nomic
 
 # Announcement
 
-Actions that can done **by announcement** are performed by literally announcing that you do them to a [public forum](#Public Forum).
+Actions that can done **by announcement** are performed by literally announcing that you do them to a [public forum](#public-forum).
 
 # Bankrupt
 
-A player can become **bankrupt** if their expenditure exceeds the [[income cap|Glossary#income cap]]. A bankrupt player may be awarded a red card and will become [[on lockout|Glossary#lockout_player-lockout]].
+A player can become **bankrupt** if their expenditure exceeds the [income cap](income-cap). A bankrupt player may be awarded a red card and will become [on lockout](player-lockout).
 
 # B.N.
 
@@ -20,11 +20,11 @@ Bachelor of Nomic
 
 The primary method for resolving conflicts. Any player may submit a specific statement to be judged *true* or *false*. Another player will be assigned to judge the statement, and any player may submit their own opinions on the statement, though the judge does not have to consider the opinions.
 
-If a player is dissastified with the result of a judgement, it may be [[appealed|Glossary#appeal]].
+If a player is dissastified with the result of a judgement, it may be [appealed](appeal).
 
 # CFJ
 
-See [[Call For Judgement|Glossary#call for judgement]].
+See [Call For Judgement](call-for-judgement).
 
 # CoE
 
@@ -58,7 +58,7 @@ Agora (the game) can be **on lockout**. A **global lockout** lasts 7 days.
 
 ## Player Lockout
 
-A player can be **on lockout** if they put themselves on lockout or if they become [[bankrupt|Glossary#bankrupt]]. Lockout prevents a player from performing most organization-related actions. Player lockout lasts for 90 days.
+A player can be **on lockout** if they put themselves on lockout or if they become [bankrupt](bankrupt). Lockout prevents a player from performing most organization-related actions. Player lockout lasts for 90 days.
 
 Relevant rules: [2456-2458](Reports/Full Logical Ruleset#2456), [2460-2462](Reports/Full Logical Ruleset#2460)
 
@@ -76,7 +76,7 @@ A position that a player occupies, which usully involves tracking and publishing
 
 # Person
 
-Essentially any human. Used primarily to define who can become a [[player|Glossary#player]].
+Essentially any human. Used primarily to define who can become a [player](player).
 
 # Player
 
