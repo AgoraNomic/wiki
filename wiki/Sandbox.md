@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 Subdirectory are also easily possible: [[CFJs/Home]]
 
 # Tables
