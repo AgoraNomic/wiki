@@ -28,6 +28,8 @@ Listed below is the primary source for each official document.
 
 ## Justice
 
+[CFJ Records](https://faculty.washington.edu/kerim/nomic/cases/)
+
 [Arbitor Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BArbitor%5D&datewithin=1d&date=&notwords=&o=newest) - CFJ assignment and management of eligible judges.
 
 [Referee Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=12&y=19&from=&subject=%5BReferee%5D&datewithin=1d&date=&notwords=&o=newest) - Penalties
