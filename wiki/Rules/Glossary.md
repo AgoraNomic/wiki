@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 NB/TODO: Links to subsections need to be full titles. Probably should change the rule pages to just have the rule numbers as section titles.
 
 # A.N.
@@ -8,7 +6,7 @@ Associate of Nomic
 
 # Announcement
 
-Actions that can done **by announcement** are performed by literally announcing that you do them to a [[public forum|Glossary#public forum]].
+Actions that can done **by announcement** are performed by literally announcing that you do them to a [public forum](#public forum).
 
 # Bankrupt
 
@@ -107,4 +105,3 @@ This time to the Public Forum. Used to indicate they previously posted the same 
 # Winning
 
 Accomplishing one of the rule defined win-conditions. At the time of writing that can be either holding every type of ribbon, or having a trust token issued by every player. Winning does not end the game, but does gain the winner the Champion patent title and the possibility of becomming the Speaker.
-
