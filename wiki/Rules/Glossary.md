@@ -6,7 +6,7 @@ Associate of Nomic
 
 # Announcement
 
-Actions that can done **by announcement** are performed by literally announcing that you do them to a [public forum](#public forum).
+Actions that can done **by announcement** are performed by literally announcing that you do them to a [public forum](#Public Forum).
 
 # Bankrupt
 
