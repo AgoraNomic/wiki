@@ -1,18 +1,20 @@
-This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you need to practice things, please do it in the [sandbox](/wiki/Sandbox.md).
+Welcome to the Agoran Wiki! As the name implies, this is a wiki for [Agora Nomic](agoranaomic.org). A nomic is a game where the rules are frequently changed, and Agora is the longest continuously running such game.
 
-If you need to do tables, consider [using this markdown table generator](http://www.tablesgenerator.com/markdown_tables). It has a gui, and can import markdown or csv.
-
-Go [here](/wiki/Git.md) to learn how to automate changes.
-
-# New players
+# Learning Center
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
 
 [Glossary](/wiki/Rules/Glossary.md)
 
-# Reference
+[About the wiki](/wiki/Git.md) - Information about how the wiki works, how to gain access to edit, and how to automate updates to it.
 
-[Rules](/wiki/Rules/Wikified-Rules.md)
+# Game Documents
+
+## Rules
+
+[The SLR](https://faculty.washington.edu/kerim/nomic/rkeep/current_slr.txt) - Just the rules.
+
+[The FLR](https://faculty.washington.edu/kerim/nomic/rkeep/current_flr.txt) - Annotated rules.
 
 [To do list](/wiki/To-do-list.md)
 
