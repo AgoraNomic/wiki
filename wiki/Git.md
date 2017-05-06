@@ -43,4 +43,4 @@ Please make sure you understand what each command in the below segment is doing 
     
     git push
     
-NB: When you run **git pull** and **git push** they will ask for your password. If you don't want to provide it every time, it is best to use [ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
+NB: When you run **git push** they will ask for your password. If you don't want to provide it every time, it is best to use [ssh](https://help.github.com/articles/connecting-to-github-with-ssh/).
