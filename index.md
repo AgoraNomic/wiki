@@ -2,6 +2,8 @@ Welcome to the Agoran Wiki! As the name implies, this is a wiki for [Agora Nomic
 
 [To do list](/wiki/To-do-list.md)
 
+If you're going to goof off, do it [here](/wiki/Sandbox.md).
+
 # Learning Center
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
