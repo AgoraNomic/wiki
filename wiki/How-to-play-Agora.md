@@ -22,7 +22,7 @@ You do things by saying that you do them to a public forum. If the rules say tha
 
 ## The rules
 
-The [rules](Home#rules) are kept in two formats: the SLR, which just has the text of the rules themselves, and the FLR, which contains more contextual information. You shouldn't feel obliged to read them yet: the best way to learn is by playing.
+The [rules](Home#rules) are kept in two formats: the [SLR](https://agoranomic.github.io/ruleset/slr.txt), which just has the text of the rules themselves, and the [FLR](https://agoranomic.github.io/ruleset/flr.txt), which contains more contextual information. You shouldn't feel obliged to read them yet: the best way to learn is by playing.
 
 ## More questions?
 
