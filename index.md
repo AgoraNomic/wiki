@@ -18,9 +18,11 @@ Listed below is the primary source for each official document.
 
 ## Rules
 
-[The SLR](https://faculty.washington.edu/kerim/nomic/rkeep/current_slr.txt) - Just the rules.
+[The SLR](https://agoranomic.github.io/ruleset/slr.txt) - Just the rules.
 
-[The FLR](https://faculty.washington.edu/kerim/nomic/rkeep/current_flr.txt) - Annotated rules.
+[The FLR](https://agoranomic.github.io/ruleset/flr.txt) - Annotated rules.
+
+[The HLR](https://agoranomic.github.io/ruleset/) - An unoffical (legally) HTML version of the rules.
 
 ## Legislation
 
