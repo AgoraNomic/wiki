@@ -1,6 +1,6 @@
 | Area               | Task                                     | Sub-tasks                         | Status | Who?        | Deadline | Comments                          | Dependencies     |
 |--------------------|------------------------------------------|-----------------------------------|--------|-------------|----------|-----------------------------------|------------------|
-| Technical          | Re-write homepage                        |                                   | P      |             |          |                                   |                  |
+| [Technical](https://github.com/orgs/AgoraNomic/projects/1)          | Re-write homepage                        |                                   | P      |             |          |                                   |                  |
 |                    |                                          | Web interface for forums          | P      | omd         |          |                                   |                  |
 |                    | Migrate ruleset to Wiki                  |                                   | A      | nichdel     |          |                                   |                  |
 |                    | Allow 'nesting' of rules in Wiki ruleset |                                   | P      |             |          |                                   |                  |
