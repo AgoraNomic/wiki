@@ -1,0 +1,72 @@
+<---------------------------------------------------------------------->
+
+Offices and Reports
+Date of this report: 
+Date of last report: 2017-05-18
+
+Administrative Health*:
+
+*AH is calculated by averaging the %s of held offices and non-late
+reports. AH is not rule defined, and only serves as an informative
+guide. Consult a doctor and a lawyer before making any diet, exercise,
+or medication changes to your administration.
+
+NB: The "Payrate" and "Holder" columns of this report are
+self-ratifying.
+
+Office         PR[1] Holder   Since       Last Election  Contestable[2]
+------------------------------------------------------------------------
+Arbitor        10    ------   2017-05-15  2014-04-07     Y
+Assessor       10    nichdel  2016-07-19  2016-02-12     Y
+ADoP[3]        10    nichdel  2017-05-18  2016-10-23     Y
+Herald         10    -------  2017-05-15  2015-07-02     Y
+Prime Minister 10    -------  2016-10-24  2016-10-22     Y
+Promotor       10    Aris     2016-10-21  2016-10-14     Y
+Referee        10    o        2017-04-17  2017-01-14     Y
+Registrar      10    PSS[4]   2017-04-18  2014-08-31     Y
+Reportor       10    nichdel  2016-09-10  2016-08-30     Y
+Rulekeepor     10    Gaelan   2017-05-17  2014-06-03     Y
+Secretary      10    o        2016-11-06  ----------     Y
+Speaker        10    -------  2017-01-08  2014-04-21     Never[5]
+Superintendent 10    Quazie   2017-04-16  ----------     Y
+Surveyor       10    o        2017-05-08  2017-05-10    
+Tailor         10    ais523   2017-05-17  ----------     Y
+------------------------------------------------------------------------
+
+[1]Payrate
+[2]Whether an election for this position can be initiated by
+announcement, as per R2154(a). Note any player can initiate an election
+for any office with 4 Support per R2154(b).
+[3]Associate Director of Personnel
+[4]Publius Scribonius Scholasticus
+[5]An imposed position. Election date recorded only for historical
+purposes.
+
+Office         M[1]  Report                  Last Published    Late[2]
+------------------------------------------------------------------------
+ADoP[3]              Offices                 2017-05-18
+Herald         Y     Patent titles           2016-10-20        !!!
+Promotor             Proposal pool           2017-05-16
+Registrar            Players, Fora           2017-05-18
+               Y     Player history          ----------        !!!
+Reportor             The Agoran Newspaper    2017-05-05        !!
+Rulekeepor           Short Logical Ruleset   2017-05-17
+               Y     Full Logical Ruleset    2017-05-02
+Secretary            Orgs and Econ[4]        2017-05-17
+               Y     Charters                2017-05-01
+Superintendent       Agencies (incremental)  2017-05-18        
+               Y     Agencies (full)         2017-05-18        
+Surveyor             Estates                 ----------        !
+Tailor         Y     Ribbons                 2017-05-18
+------------------------------------------------------------------------
+
+[1]Monthly
+[2]! = 1 period missed. !! = 2 periods missed. !!! = 3+ periods missed.
+[3]Associate Director of Personnel
+[4]Organizations, lockout, expediture, and balances
+
+EVENTS
+------
+2017-05-18   16:32   o becomes Surveyor, via election.
+
+<---------------------------------------------------------------------->
