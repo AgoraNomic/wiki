@@ -46,7 +46,7 @@ Listed below is the primary source for each official document.
 
 ## People & Players
 
-[Payroll and Metareport](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BADoP%5D&datewithin=1d&date=&notwords=&o=newest) - Lists offices and reports.
+[Payroll and Metareport](https://agoranomic.github.io/ADoP) - Lists offices and reports.
 
 [Monthly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Monthly+Report&datewithin=1d&date=&notwords=&o=newest) - History of players
 
