@@ -2,7 +2,7 @@ title: Agora Wiki
 description: Agora Nomic's wiki. Learn more at https://www.agoranomic.org/.
 show_downloads: true
 git_branch: master
-logo_url: http://agoranomic.github.io/agora-wiki/assets/images/agora_logo.png
+logo_url: http://agoranomic.github.io/wiki/assets/images/agora_logo.png
 google_analytics:
 theme: 
 use_github_wiki: false
