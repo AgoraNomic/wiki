@@ -8,6 +8,8 @@ If you're going to goof off, do it [here](/wiki/Sandbox.md).
 
 [How to play Agora](/wiki/How-to-play-Agora.md)
 
+[The Email Guide](/wiki/Email.md) - Advice for managing and configuring your email for Agora.
+
 [Glossary](/wiki/Rules/Glossary.md)
 
 [About the wiki](/wiki/Git.md) - Information about how the wiki works, how to gain access to edit, and how to automate updates to it.
