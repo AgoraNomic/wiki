@@ -16,7 +16,9 @@ Best way to do research on game state is to look for relevant reports. Below are
 
 [Promotor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BPromotor%5D&datewithin=1d&date=&notwords=&o=newest) - Distribution of new proposals for voting.
 
-[Assessor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BAssessor%5D&datewithin=1d&date=&notwords=&o=newest) - Tabulation and resolution of votes
+[Assessor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BAssessor%5D&datewithin=1d&date=&notwords=&o=newest) - Tabulation and resolution of votes.
+
+[Regkeepor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegkeepor%5D&datewithin=1d&date=&notwords=&o=newest) - Officer regulations.
 
 ## Justice
 
@@ -24,30 +26,32 @@ Best way to do research on game state is to look for relevant reports. Below are
 
 [Arbitor Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BArbitor%5D&datewithin=1d&date=&notwords=&o=newest) - CFJ assignment and management of eligible judges.
 
-[Referee Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=12&y=19&from=&subject=%5BReferee%5D&datewithin=1d&date=&notwords=&o=newest) - Penalties
+[Referee Events](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=12&y=19&from=&subject=%5BReferee%5D&datewithin=1d&date=&notwords=&o=newest) - Crimes and penalties.
 
 ## Economics
 
-[Monthly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BSecretary%5D+Monthly+Report&datewithin=1d&date=&notwords=&o=newest) - Organization charters.
+[Treasuror Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BTreasuror%5D&datewithin=1d&date=&notwords=&o=newest) - Balances, budgets, and transactions.
 
-[Weekly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BSecretary%5D+Weekly+Report&datewithin=1d&date=&notwords=&o=newest) - Balances, budgets, and transactions.
+[Cartographor Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BCartographor%5D+The+Map+of+Arcadia&datewithin=1d&date=&notwords=&o=newest) - The map of the world
 
 ## People & Players
 
-[Payroll and Metareport](https://agoranomic.github.io/ADoP) - Lists offices and reports.
+[Payrolls and Metareports](https://agoranomic.github.io/ADoP) - Lists offices and reports.
 
-[Monthly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Monthly+Report&datewithin=1d&date=&notwords=&o=newest) - History of players
+[Monthly Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Monthly+Report&datewithin=1d&date=&notwords=&o=newest) - History of players.
 
-[Weekly Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Weekly+Report&datewithin=1d&date=&notwords=&o=newest) - Current players and fora.
+[Weekly Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BRegistrar%5D+Weekly+Report&datewithin=1d&date=&notwords=&o=newest) - Current players and fora.
 
-[Superintendent's Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BSuperintendent%5D&datewithin=1d&date=&notwords=&o=newest) - Agencies and Power of Attorney
+[Notary Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BNotary%5D&datewithin=1d&date=&notwords=&o=newest) - Contracts and their sustenance payments.
 
 ## Victory
 
-[Ribbons Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BTailor%5D+Ribbons&datewithin=1d&date=&notwords=&o=newest)
+[Ribbons Reports](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BTailor%5D+Ribbons&datewithin=1d&date=&notwords=&o=newest)
 
 ## Humanities
 
-[The Newspaper](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BReportor%5D&datewithin=1d&date=&notwords=&o=newest) - Record of recent discussions and events.
+[Karma](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BKarma%5D&datewithin=1d&date=&notwords=&o=newest) - Popularity ladder.
 
-[Herald's Report](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BHerald%5D&datewithin=1d&date=&notwords=&o=newest) - Historically significant events and awards.
+[Scrolls of Agora](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BScroll+of+Agora%5D&datewithin=1d&date=&notwords=&o=newest) - Historically significant events and awards.
+
+[Medals of Honour](https://www.mail-archive.com/search?a=1&l=agora-official%40agoranomic.org&haswords=&x=0&y=0&from=&subject=%5BMedal+of+Honour%5D&datewithin=1d&date=&notwords=&o=newest) - Popularity contest and one of the ways to win.
